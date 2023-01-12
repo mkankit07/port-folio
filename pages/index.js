@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Acomplishments from '../components/Acomplishments/Acomplishments';
 import BgAnimation from '../components/BackgroundAnimation/BackgroundAnimation';
 import Hero from '../components/Hero/Hero';
