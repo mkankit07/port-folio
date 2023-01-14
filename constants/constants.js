@@ -1,45 +1,46 @@
 export const projects = [
-    {
-      title: 'MERN Memories',
-      description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-        image: '',
-        tags: ['Mongo', 'Express', 'React', 'Node'],
-      source: 'https://google.com',
-      visit: 'https://google.com',
-      id: 0,
-    },
-    {
-      title: 'E-Commerce',
-      description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-      image: '',
-      tags: ['React', 'JavaScript'],
-      source: 'https://google.com',
-      visit: 'https://google.com',
-      id: 1,
-    },
-    {
-      title: 'WebRTC App',
-      description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-        image: '',
-        tags: ['React', 'WebRTC'],
-      source: 'https://google.com',
-      visit: 'https://google.com',
-      id: 2,
-    },
-    {
-      title: 'Unichat',
-      description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-      image: '',
-      tags: ['React', 'ChatEngine', 'Firebase'],
-      source: 'https://google.com',
-      visit: 'https://google.com',
-      id: 3,
-    },
-  ];
-  
-  export const TimeLineData = [
-    { year: 2021, text: 'Started my journey', },
-    { year: 2021, text: 'Worked as a freelance developer', },
-    { year: 2022, text: 'Worked on Appsdelite Technology', },
-    { year: 2022, text: 'Worked on eDelta Enterprise Solutions', },
-  ];
+
+  {
+    title: 'I notebook',
+    description: "I have created an i-notebook app in which user can register and login and after that, he can post and view notebooks, and he can also delete and update. I used ReactJS, fatchAPI, useContext, bootstrap, Express, MySQL, Sequelize and JWT for the authentication for this app",
+    // image: '',
+    tags: ['React', 'Node', 'MYSQL', 'Express'],
+    source: '#',
+    visit: '#',
+    id: 2,
+  },
+  {
+    title: 'E-Commerce',
+    description: "I have build multi vender website,In website has two conditions that you can buy products individually or in a team. When we buy a product with a team at that time we get some discount in price and the product mentions how many members join a team and its Teams are only valid 24 hours a day . If the team member's requirement is completed the team purchase will be made and if the team is not completed and the time is up then this team will be cancelled .",
+    // image: '',
+    tags: ['React', 'JavaScript','NodejS','Material Ui'],
+    source: '#',
+    visit: '#',
+    id: 1,
+  },
+  {
+    title: 'Social Connect',
+    description: "I have created a social conncted app with NextJs and NodeJS, In which they create, share, and/or exchange information and ideas in virtual communities and networks also chat with others person",
+    // image: '',
+    tags: ['agora.io', 'socket.io', 'Next', 'Node'],
+    source: '#',
+    visit: '#',
+    id: 0,
+  },
+  {
+    title: 'Chat APP',
+    description: "Developed a web app as chat app. In which the user is helped to login  signup And after that, he can chat with other people. I have used NodeJS , ExpressJS , mongodb reactjs socket.i style-components",
+    // image: '',
+    tags: ['React', 'socket.io', 'mongodb', 'NodeJS'],
+    source: '#',
+    visit: '#',
+    id: 3,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2021, text: 'Started my journey', },
+  { year: 2021, text: 'Worked as a freelance developer', },
+  { year: 2022, text: 'Worked on Appsdelite Technology', },
+  { year: 2022, text: 'Worked on eDelta Enterprise Solutions', },
+];
