@@ -2,7 +2,7 @@ export const projects = [
 
   {
     title: 'I notebook',
-    description: "I have created an i-notebook app in which user can register and login and after that, he can post and view notebooks, and he can also delete and update. I used ReactJS, fatchAPI, useContext, bootstrap, Express, MySQL, Sequelize and JWT for the authentication for this app",
+    description: "My latest project is an i-notebook app that provides users with the ability to register, login, and manage their notebooks. Using ReactJS, Fetch API, and Bootstrap, I created a user-friendly interface that enables users to easily post, view, update, and delete their notebooks. To ensure secure access, I implemented authentication using Express, MySQL, Sequelize, and JWT",
     // image: '',
     tags: ['React', 'Node', 'MYSQL', 'Express'],
     source: '#',
@@ -11,7 +11,7 @@ export const projects = [
   },
   {
     title: 'E-Commerce',
-    description: "I have build multi vender website,In website has two conditions that you can buy products individually or in a team. When we buy a product with a team at that time we get some discount in price and the product mentions how many members join a team and its Teams are only valid 24 hours a day . If the team member's requirement is completed the team purchase will be made and if the team is not completed and the time is up then this team will be cancelled .",
+    description: "I have built a multi-vendor ecommerce website where admins and merchants can create and sell products. The site includes options to purchase products individually or as a team, with teams being valid for 24 hours. This unique feature incentivizes users to invite others to join their team for a discounted purchase price, creating a more engaging and dynamic shopping experience",
     // image: '',
     tags: ['React', 'JavaScript','NodejS','Material Ui'],
     source: '#',
@@ -20,7 +20,7 @@ export const projects = [
   },
   {
     title: 'Social Connect',
-    description: "I have created a social conncted app with NextJs and NodeJS, In which they create, share, and/or exchange information and ideas in virtual communities and networks also chat with others person",
+    description: "I have created a social networking app with Next.js and Node.js that enables users to create, share, and exchange information and ideas in virtual communities and networks. In addition, the app allows users to chat with other individuals, fostering more engaging and interactive communication. By utilizing these modern technologies.",
     // image: '',
     tags: ['agora.io', 'socket.io', 'Next', 'Node'],
     source: '#',
@@ -29,7 +29,7 @@ export const projects = [
   },
   {
     title: 'Chat APP',
-    description: "Developed a web app as chat app. In which the user is helped to login  signup And after that, he can chat with other people. I have used NodeJS , ExpressJS , mongodb reactjs socket.i style-components",
+    description: "I developed a chat web application that allows users to easily sign up and log in to begin chatting with others. The app was built using Node.js, Express.js, MongoDB, React.js, Socket.IO, and styled-components, enabling seamless real-time communication and a modern, user-friendly interface. By utilizing these advanced technologies",
     // image: '',
     tags: ['React', 'socket.io', 'mongodb', 'NodeJS'],
     source: '#',
