@@ -118,7 +118,6 @@ const Technologies = () =>  (
       </ListItem> <ListItem>
         <picture>
           <DiNodejsSmall size="3rem" />
-          <DiJavascript size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>GraphQl</ListTitle>
