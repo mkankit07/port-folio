@@ -6,6 +6,9 @@ import Projects from "@/components/Projects";
 import Contact from "@/components/Contact";
 
 export default function Home() {
+  const dateTime = new Date()
+  const date = dateTime.getFullYear();
+
   return (
     <main>
       <Nav />
@@ -19,7 +22,7 @@ export default function Home() {
         textAlign: 'center', padding: '24px 5vw',
         fontSize: '13px', fontWeight: 600,
       }}>
-        © 2025 Ankit Maurya · Built with Next.js
+        © {date} Ankit Maurya
       </footer>
     </main>
   );
